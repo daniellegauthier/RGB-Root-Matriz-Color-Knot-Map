@@ -1,0 +1,94 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   padding: 20px;
+}
+
+/* Default styles 
+body {
+  font-family: Arial, sans-serif;
+ 
+}*/
+
+/* Responsive adjustments */
+@media (max-width: 767px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  
+  .table th, .table td {
+    font-size: 0.8rem;
+    padding: 0.5rem;
+  }
+  
+  input.form-control {
+    font-size: 0.8rem;
+    padding: 0.4rem;
+  }
+  
+  .btn {
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+  .table th, .table td {
+    font-size: 1rem;
+    padding: 0.7rem;
+  }
+  
+  input.form-control {
+    font-size: 1rem;
+    padding: 0.6rem;
+  }
+  
+  .btn {
+    font-size: 1rem;
+    padding: 0.6rem 1.2rem;
+  }
+}
+/* quiz
+input, textarea {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  margin: 10px;  
+  width:100%;
+}
+
+fieldset {
+  display: flexbox;
+  align-content: center;
+  justify-content: center;  
+  padding: 25px; 
+  margin-left: 50px; 
+  margin-right: 50px;   
+  border: thin solid white;
+  width: 50%;
+}
+buttons
+
+button {
+  background-color: #fff;
+  border: 1px solid #7600bc;
+  color: #7600bc;
+  display: block;
+  border-radius: 6px;
+  text-align: center;
+  margin: 50px;
+  padding: 10px;
+  width: 2in;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: #7600bc;
+  border: 1px solid #7600bc;
+  color: #fff;
+  display: block;
+  border-radius: 6px;
+  text-align: center;
+  cursor: pointer;
+} */

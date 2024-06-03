@@ -1,0 +1,17 @@
+color,r,g,b,matrice
+grey,0,0,0,Cover 
+pink,175,0,45,Category 
+gold,175,-100,0,Pull 
+rainbow,-200,-50,20,Return 
+nude,175,-90,60,Approach 
+orange,175,55,0,Hit 
+transparent,-200,200,-200,Connect 
+white,178,-178,178,Hope 
+blue,-178,178,178,Collect 
+green,-178,-178,-178,Transition 
+red,178,178,0,Limit 
+black,-178,178,-178,Order 
+brown,90,25,0,Learn
+none,200,200,200,Work
+yellow,178,-178,0,Structure 
+purple,90,-25,178,Free 
