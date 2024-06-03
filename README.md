@@ -1,5 +1,5 @@
 # RGB Root Matriz Color Knot Map
-#by Danielle Gauthier  
+by Danielle Gauthier  
 
 ## Overview
 The RGB Root Matriz Color Knotter Map is a deterministic model inspired by ecofeminist perspectives on family-making and crafting. It uses color and spatial relationships to create a narrative for poetic linguistic navigation.
